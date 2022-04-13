@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kushalpiya
-- 👀 I’m interested in Web Development and Flutter.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Laravel.
 - 💞️ I’m looking to collaborate on developing mobile apps.
 - 📫 Reach me on: kushalpiya9@gmail.com
