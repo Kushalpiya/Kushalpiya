@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Kushalpiya
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Laravel.
-- 💞️ I’m looking to collaborate on developing mobile apps.
+- 🌱 I’m currently learning Angular.
 - 📫 Reach me on: kushalpiya9@gmail.com
